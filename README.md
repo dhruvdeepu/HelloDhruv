@@ -3,7 +3,7 @@
 ### App Description
 `TODO://` Simple Hello Application
 
-<img src="https://i.imgur.com/d81DYzg.gifv" width=200><br>
+<img src="https://github.com/dhruvdeepu/HelloDhruv/blob/master/hello.gif" width=200><br>
 
 
 - [X] 1. User sees custom text in a label - Hello from {name}!
